@@ -1,1 +1,2 @@
 hello good and cruel world
+This line is for branch2
